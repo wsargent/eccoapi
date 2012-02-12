@@ -1,0 +1,6 @@
+Revision history for Perl extension Ecco::Sample::GTD.
+
+0.01  Mon Dec 26 02:22:25 2005
+	- original version; created by h2xs 1.23 with options
+		-X -n Ecco::Sample::GTD
+

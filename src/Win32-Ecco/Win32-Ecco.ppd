@@ -1,0 +1,12 @@
+<SOFTPKG NAME="Win32-Ecco" VERSION="1,0,0,0">
+    <TITLE>Win32-Ecco</TITLE>
+    <ABSTRACT>Perl extension for Ecco Pro</ABSTRACT>
+    <AUTHOR>Will Sargent &lt;will_sargent@yahoo.com&gt;</AUTHOR>
+    <IMPLEMENTATION>
+        <OS NAME="MSWin32" />
+        <ARCHITECTURE NAME="MSWin32-x86-multi-thread-5.8" />
+        <CODEBASE HREF="Win32-Ecco-1.tar.gz" />
+	<DEPENDENCY NAME="TimeDate" />
+	<DEPENDENCY NAME="Win32-DDE" />
+    </IMPLEMENTATION>
+</SOFTPKG>

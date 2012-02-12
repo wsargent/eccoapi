@@ -1,0 +1,12 @@
+<SOFTPKG NAME="Win32-Ecco-Export-ICal" VERSION="0,01,0,0">
+    <TITLE>Win32-Ecco-Export-ICal</TITLE>
+    <ABSTRACT>Exports from Ecco to ICal</ABSTRACT>
+    <AUTHOR>Will Sargent &lt;will_sargent@yahoo.com&gt;</AUTHOR>
+    <IMPLEMENTATION>
+        <DEPENDENCY NAME="Data-ICal" VERSION="0,05,0,0" />
+        <DEPENDENCY NAME="Win32-Ecco" VERSION="1,00,0,0" />
+        <OS NAME="MSWin32" />
+        <ARCHITECTURE NAME="MSWin32-x86-multi-thread-5.8" />
+        <CODEBASE HREF="Win32-Ecco-Export-ICal-1.tar.gz" />
+    </IMPLEMENTATION>
+</SOFTPKG>

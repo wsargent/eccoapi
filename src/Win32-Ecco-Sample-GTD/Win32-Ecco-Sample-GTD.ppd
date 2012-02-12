@@ -1,0 +1,15 @@
+<SOFTPKG NAME="Win32-Ecco-Sample-GTD" VERSION="1,0,1,0">
+    <TITLE>Win32-Ecco-Sample-GTD</TITLE>
+    <ABSTRACT>Provides sample usage of Ecco Pro API in Getting Things Done context</ABSTRACT>
+    <AUTHOR>Will Sargent &lt;will_sargent@yahoo.com&gt;</AUTHOR>
+    <IMPLEMENTATION>
+        <OS NAME="MSWin32" />
+        <ARCHITECTURE NAME="MSWin32-x86-multi-thread-5.8" />
+        <CODEBASE HREF="Win32-Ecco-Sample-GTD-1.0.1.tar.gz" />
+	<DEPENDENCY NAME="TimeDate" />
+	<DEPENDENCY NAME="Win32-Ecco-Export-OML" VERSION="1,0,1,0"/>
+	<DEPENDENCY NAME="Win32-Ecco-Import-OML" VERSION="1,0,1,0"/>
+	<DEPENDENCY NAME="Date-ICal" />
+	<DEPENDENCY NAME="Data-ICal" />
+    </IMPLEMENTATION>
+</SOFTPKG>
